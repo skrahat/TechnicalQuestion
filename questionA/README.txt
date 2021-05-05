@@ -8,3 +8,6 @@ Code Details:
         line only sharing one single start or end point is not considered as overlap,
         No external library is required since simple task,
 Time Required to complete: <1hr
+
+
+To run tests from terminal simply run -python test.py
